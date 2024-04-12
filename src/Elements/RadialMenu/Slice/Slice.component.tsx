@@ -77,7 +77,7 @@ const Slice = ({
           {children}
         </Content>
       </ContentContainer>
-    </Component>
+    </Container>
   );
 };
 
