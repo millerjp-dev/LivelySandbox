@@ -1,0 +1,15 @@
+{
+  "name": "characterbackend",
+  "version": "1.0.0",
+  "description": "Character backend for character website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "jared.miller",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}

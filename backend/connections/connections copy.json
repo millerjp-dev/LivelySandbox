@@ -1,0 +1,19 @@
+{
+    "Fang,Tee": {
+        "characters": ["Fang", "Tee"],
+        "connectionType" : ["married", "family"],
+        "synergy" : "100",
+        "aligment" : ["true", "good"],
+        "specialMove" : "Hunting Grounds",
+        "description" : "Early childhood Fang greeted the nature spirit once or twice before being rebuked by the then shaman about the dangers of nature spirits, they each grow up separate as Fang becomes a shaman while Tee earns the heart of the forest when trouble struck Fang's tribe. They marry and have 4 children."
+    },
+    "Leo,SkyLeo": {
+        "characters" : ["Leo", "SkyLeo"],
+        "connectionType" : ["familiar", "work"],
+        "synergy" : "100",
+        "aligment" : ["chaotic", "neutral"],
+        "specialMove" : "Bigger Picture",
+        "specialMoveDescription" : "Sky grows big and Leo starts drawing frantically as the pages flood the battlefield from Sky's wingbeats. The effects are always random.",
+        "description" : "Leo summoned Sky when Leo was at his lowest, and now they are inseperable. Sky loves Leo and loves giving Leo quick travel and protection"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "PirateDarxid": {
+        "name" : "Darxid",
+        "species":["khaait", "cat", "shark"],
+        "job":["pirateCaptian", "sailing", "sea"],
+        "shortDescription" : "Captian of the Megalodon",
+        "height" : "177",
+        "description" : "Captian Darxid commands his crew on the high seas and is infamous for his charm"
+    },
+    "SkyLeo" : {
+
+        "name" : "Sky",
+        "species":["husky", "familiar", "shapeshifter"],
+        "job":["Familiar"],
+        "maxHeight" : "304",
+        "height" : "182",
+        "minHeight" : "30",
+        "bodyType" : "feral",
+        "shortDescription" : "Winged Husky",
+        "description" : "Sky is a summoned being from the Big Empty by Leo. He was brought to life to be a manifestation of everything Leo needed."
+    },
+    "Leo" : {
+
+            "name" : "Leo",
+            "species":["cat"],
+            "job":["wizard", "alchemist"],
+            "height" : "132",
+            "shortDescription" : "Winged Husky",
+            "description" : "Leo is a wizard who records all of his self taught magic in his troves of sketch books, all recorded in drawings with no words"
+        },
+    "Rig" : {
+
+            "species":["cat"],
+            "job":["mercenary"],
+            "name" : "Rig",
+            "shortDescription" : "Space kitty with bio suit",
+            "description" : "This kitty is from a futuristic "
+    },
+    "Scyre" : {
+
+            "name" : "Scyre",
+            "species":["naga", "gemNaga"],
+            "job":["Gem Mofioso"],
+            "shortDescription" : "Gem Naga Gem Mafioso",
+            "description" : ""
+    },
+    "Blood" : {
+
+            "name" : "Scyre",
+            "shortDescription" : "Gem Naga Gem Mafioso",
+            "description" : ""
+    },
+    "Golden" : {
+
+            "name" : "Scyre",
+            "shortDescription" : "Gem Naga Gem Mafioso",
+            "description" : ""
+    },
+    "Silver" : {
+
+            "name" : "Scyre",
+            "shortDescription" : "Gem Naga Gem Mafioso",
+            "description" : ""
+    },
+    "Maverick" : {
+
+            "name" : "Scyre",
+            "shortDescription" : "Gem Naga Gem Mafioso",
+            "description" : ""
+    },
+    "Tee" : {
+
+            "name" : "Scyre",
+            "shortDescription" : "Gem Naga Gem Mafioso",
+            "description" : ""
+    },
+    "Fang" : {
+
+            "name" : "Scyre",
+            "shortDescription" : "Gem Naga Gem Mafioso",
+            "description" : ""
+    },
+    "Leaf" : {
+
+            "name" : "Scyre",
+            "shortDescription" : "Gem Naga Gem Mafioso",
+            "description" : ""
+    },
+    "Thorn" : {
+
+            "name" : "Scyre",
+            "shortDescription" : "Gem Naga Gem Mafioso",
+            "description" : ""
+    },
+    "Tail" : {
+
+            "name" : "Scyre",
+            "shortDescription" : "Gem Naga Gem Mafioso",
+            "description" : ""
+    },
+    "Claw" : {
+
+            "species":["naga", "gemNaga"],
+            "job":["Gem Mofioso"],
+            "name" : "Scyre",
+            "shortDescription" : "Gem Naga Gem Mafioso",
+            "description" : ""
+    },
+    "Eleanor" : {
+
+            "species":["fox","redFox"],
+            "name" : "Eleanor",
+            "shortDescription" : "Red Fox Immortal Timelady",
+            "description" : "Born in 1672, this Red Fox fell through the river into the ice and by some unkown backstory she became immortal instead of dieing when she washed to shore. She is searching for her higher purpose of why she is still here. She uses her fathers old pocket watch to travel back in time, but any changes are not refleceted in the reality she shifts back into. She is a personificaiton of truth, and always seeks it and provides it for those who are worthy. She is a dutches"
+    },
+    "Sabastian" : {
+            "species":["angel","wolf","angelWolf"],
+            "name" : "Eleanor",
+            "shortDescription" : "Red Fox Immortal Timelady",
+            "description" : ""
+    },
+    "Cecilia" : {
+            "species":["angel","wolf","angelWolf"],
+            "name" : "Eleanor",
+            "shortDescription" : "Red Fox Immortal Timelady",
+            "description" : ""
+}
+}

@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.13.5",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -10,6 +11,8 @@
     "@types/node": "^16.18.95",
     "@types/react": "^18.2.74",
     "@types/react-dom": "^18.2.24",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
     "lodash": "^4.17.21",
     "react": "^18.2.0",
     "react-animations": "^1.0.0",
@@ -21,7 +24,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts start --host 0.0.0.0",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
